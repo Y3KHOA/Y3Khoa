@@ -3,11 +3,6 @@
 
 ![Y3Khoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y3Khoa&show_icons=true&theme=tokyonight)
 
-<!-- GitHub streak -->
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Y3Khoa&theme=tokyonight)](https://git.io/streak-stats)
-
-
 <!-- Top languages -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Y3Khoa&layout=compact&theme=tokyonight)](https://github.com/Y3Khoa)
