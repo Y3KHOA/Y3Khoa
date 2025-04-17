@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**Y3KHOA/Y3Khoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- GitHub stats -->
 
-Here are some ideas to get you started:
+![Y3Khoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y3Khoa&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- GitHub streak -->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Y3Khoa&theme=tokyonight)](https://git.io/streak-stats)
+
+<!-- Top languages -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Y3Khoa&layout=compact&theme=tokyonight)](https://github.com/Y3Khoa)
+
+<!-- Social badges -->
+
+![Profile Views](https://komarev.com/ghpvc/?username=Y3Khoa&color=blueviolet)
+![Followers](https://img.shields.io/github/followers/Y3Khoa?style=social)
+![Stars](https://img.shields.io/github/stars/Y3Khoa?style=social)
