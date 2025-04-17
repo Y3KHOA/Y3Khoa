@@ -5,7 +5,8 @@
 
 <!-- GitHub streak -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Y3Khoa&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Y3Khoa&theme=tokyonight)](https://git.io/streak-stats)
+
 
 <!-- Top languages -->
 
